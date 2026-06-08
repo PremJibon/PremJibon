@@ -1,6 +1,6 @@
 ### Hi there, I'm Prem! (aka Luffy) 👋 ⚓
 
-> "I'm gonna be King of the Pirates!" — or at least, the King of AI Automation and Modern Web.
+> "I'm gonna be King of the Pirates!" —  the King of AI Automation and Modern Web.
 
 I am a **Software Architect, AI Engineer, and Founder of [Yoloboat Digital](https://yoloboat-digital.vercel.app/)**. I build intelligent systems that don't just run code, but think, remember, and evolve. Currently, I'm orchestrating a fleet of AI agents to conquer the Grand Line of technology.
 
